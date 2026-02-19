@@ -9,7 +9,7 @@
  * Reads digital input from IR sensor
  * and detects obstacle presence.
  * Provide lightweight stubs for editors/linters that can't resolve Arduino symbols.
- * These are only used when the ARDUINO macro is not defined (i.e., not a real build).
+ * These are only used when the ARDUINO macro is not defined (i.e., not a real build)
   */
 #ifndef ARDUINO
 // Pin modes
